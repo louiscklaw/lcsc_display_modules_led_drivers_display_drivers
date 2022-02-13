@@ -1,2 +1,0 @@
-# lcsc_display_modules_led_drivers_display_drivers
-lcsc_display_modules_led_drivers_display_drivers
